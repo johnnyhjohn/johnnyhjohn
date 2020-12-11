@@ -1,7 +1,6 @@
-I'm a web developer who loves learning new technologies and create new stuffs. 
+I'm a fullstack developer who loves learning new technologies and create new stuffs. 
 
-- :round_pushpin: Amsterdam - The Netherlands.
-- Salesforce, JavaScript, PHP and all front end bundle.
+My main skills are Salesforce development (Apex, Lightning), JavaScript (Node.js and frontend frameworks) and frontend fun stuffs (css animations, three.js) to bring creativity to our web.
 
 #### You can connect to me on:
 
